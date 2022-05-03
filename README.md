@@ -1,43 +1,82 @@
-## DSTelecom
-Development Scripts for Linux CentOS
-<h1 align="center">Hi 👋, I'm Hany Ismail</h1>
-<h3 align="center">Satellite Networking and Telecomunication Engineer from Egypt</h3>
+## Linux Development Scripts for Multitasks
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dstelecom&label=Profile%20views&color=0e75b6&style=flat" alt="dstelecom" /> </p>
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ds-telecom" alt="ds-telecom" /></a> </p>
+DSTelecom Development Scripts was built to offer multiple operations using #bash scripts, 
 
-<p align="left"> <a href="https://twitter.com/hanyismaill" target="blank"><img src="https://img.shields.io/twitter/follow/hanyismaill?logo=twitter&style=for-the-badge" alt="hanyismaill" /></a> </p>
+1- TUNNEL SCRIPT used to establish a tunnel between local and remote pc once ssh the remote pc
+2- LAMP SCRIPT used to install Apache, Mysql, PHP Servers on CentOS
+3- SECURITY SCRIPT used to check the weak directories on your OS
 
-- 🔭 I’m currently working on [Linux Development Project](https://github.com/ds-telecom)
+![](header.png)
 
-- 🌱 I’m currently learning **Linux Administration, PHP, Embded Linux**
+## Installation
 
-- 👯 I’m looking to collaborate on [Linux Kickstart Image](https://github.com/ds-telecom)
+OS X & Linux:
 
-- 🤝 I’m looking for help with [Mikrotik Scripts](https://github.com/ds-telecom)
+```sh
+npm install my-crazy-module --save
+```
 
-- 👨‍💻 All of my projects are available at [https://dstelecom.net/projects](https://dstelecom.net/projects)
+Windows:
 
-- 📝 I regularly write articles on [https://dstelecom.net/blog](https://dstelecom.net/blog)
+```sh
+edit autoexec.bat
+```
 
-- 📫 How to reach me **hany@dstelecom.net**
+## Usage example
 
-- 📄 Know about my experiences [https://dstelecom.net/resume.pdf](https://dstelecom.net/resume.pdf)
+A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hanyismaill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanyismaill" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hanyismaill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanyismaill" height="30" width="40" /></a>
-<a href="https://fb.com/hany.ismailll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hany.ismailll" height="30" width="40" /></a>
-<a href="https://instagram.com/hany.ismaill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hany.ismaill" height="30" width="40" /></a>
-</p>
+_For more examples and usage, please refer to the [Wiki][wiki]._
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+## Development setup
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ds-telecom&show_icons=true&locale=en&layout=compact" alt="ds-telecom" /></p>
+Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ds-telecom&show_icons=true&locale=en" alt="ds-telecom" /></p>
+```sh
+make install
+npm test
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ds-telecom&" alt="ds-telecom" /></p>
+## Release History
+
+* 0.2.1
+    * CHANGE: Update docs (module code remains unchanged)
+* 0.2.0
+    * CHANGE: Remove `setDefaultXYZ()`
+    * ADD: Add `init()`
+* 0.1.1
+    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
+* 0.1.0
+    * The first proper release
+    * CHANGE: Rename `foo()` to `bar()`
+* 0.0.1
+    * Work in progress
+
+## Meta
+
+Hany Ismail – [@YourTwitter](https://twitter.com/dbader_org) – 
+hany@dstelecom.net
+
+Distributed under the GPL license. See ``LICENSE`` for more information.
+
+[https://github.com/yourname/github-link](https://github.com/dbader/)
+
+## Contributing
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
