@@ -6,9 +6,9 @@
 
 DSTelecom Development Scripts was built to offer multiple operations using #bash scripts, 
 
-1- TUNNEL SCRIPT used to establish a tunnel between local and remote pc once ssh the remote pc
-2- LAMP SCRIPT used to install Apache, Mysql, PHP Servers on CentOS
-3- SECURITY SCRIPT used to check the weak directories on your OS
+1- TUNNEL SCRIPT used to establish a tunnel between local and remote pc once ssh the remote pc.
+2- LAMP SCRIPT used to install Apache, Mysql, PHP Servers on CentOS.
+3- SECURITY SCRIPT used to check the weak directories on your OS.
 
 ![](header.png)
 
