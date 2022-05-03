@@ -10,7 +10,7 @@ DSTelecom Development Scripts was built to offer multiple operations using #bash
 2- LAMP SCRIPT used to install Apache, Mysql, PHP Servers on CentOS.
 3- SECURITY SCRIPT used to check the weak directories on your OS.
 
-![](header.png)
+![](header1.png)
 
 ## Installation
 
